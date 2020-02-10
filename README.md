@@ -13,6 +13,7 @@ Code for the paper:
 * latest Pytorch
 
 ## Usage
+* get data from https://www.cs.cmu.edu/~glai1/data/cloth/
 * tar xzvf data.tar.gz
 * test the best model: bash test.sh
 * replace embed/glove.6B.300d.txt with the corresponding file in http://nlp.stanford.edu/data/glove.6B.zip
